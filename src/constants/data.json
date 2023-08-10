@@ -1,0 +1,124 @@
+[
+  {
+    "Id": "1",
+    "category": "Friendship",
+    "questions": [
+      {
+        "IdQuestion": "1",
+        "Title": "Means of Friends",
+        "description": "What does a friend mean to you?"
+      },
+      {
+        "IdQuestion": "2",
+        "Title": "Expectations",
+        "description": "What kind of friend do you want to have?"
+      },
+      {
+        "IdQuestion": "3",
+        "Title": "Like & Dislike",
+        "description": "What kind of friend do you want to avoid?"
+      },
+      {
+        "IdQuestion": "4",
+        "Title": "Like & Dislike",
+        "description": "What trait do you dislike the most in your friend?"
+      },
+      {
+        "IdQuestion": "5",
+        "Title": "Like & Dislike",
+        "description": "What trait do you like the most in your friend?"
+      },
+      {
+        "IdQuestion": "6",
+        "Title": "Means of Friends",
+        "description": "What do I mean to you?"
+      },
+      {
+        "IdQuestion": "7",
+        "Title": "Expectations",
+        "description": "What kind of activities do you want to do together with me?"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "category": "Relationship",
+    "questions": [
+      {
+        "IdQuestion": "1",
+        "Title": "Reasons",
+        "description": "Why do you want to be in this relationship?"
+      },
+      {
+        "IdQuestion": "2",
+        "Title": "Expectations",
+        "description": "What do you expect from us being together?"
+      },
+      {
+        "IdQuestion": "3",
+        "Title": "Decisions",
+        "description": "If I ever messed up, would you give me another chance?"
+      },
+      {
+        "IdQuestion": "4",
+        "Title": "Expectations",
+        "description": "Are you up for taking this relationship to be more serious?"
+      },
+      {
+        "IdQuestion": "5",
+        "Title": "Like & Dislike",
+        "description": "What's the one thing you really don't want in a relationship?"
+      },
+      {
+        "IdQuestion": "6",
+        "Title": "Like & Dislike",
+        "description": "What trait do you dislike the most in your partner?"
+      },
+      {
+        "IdQuestion": "7",
+        "Title": "Like & Dislike",
+        "description": "What trait do you like the most in your partner?"
+      },
+      {
+        "IdQuestion": "8",
+        "Title": "Expectations",
+        "description": "What kind of relationship would be your dream come true?"
+      },
+      {
+        "IdQuestion": "9",
+        "Title": "Expectations",
+        "description": "What kind of relationship are you totally not into?"
+      },
+      {
+        "IdQuestion": "10",
+        "Title": "Expectations",
+        "description": "What do you expect from a partner?"
+      },
+      {
+        "IdQuestion": "11",
+        "Title": "Expectations",
+        "description": "What do you not expect from a partner?"
+      },
+      {
+        "IdQuestion": "12",
+        "Title": "Reasons",
+        "description": "Why should I choose you to be my partner?"
+      },
+      {
+        "IdQuestion": "13",
+        "Title": "Decisions",
+        "description": "If things don't go as expected, what would you do?"
+      },
+      {
+        "IdQuestion": "14",
+        "Title": "Decisions",
+        "description": "When would you decide it's time to call it quits?"
+      },
+      {
+        "IdQuestion": "15",
+        "Title": "Decisions",
+        "description": "Let's say after a bunch of years, everything begins to lose its spark, and you no longer have that same feeling. So, what would you do?"
+      }
+    ]
+  }
+]
