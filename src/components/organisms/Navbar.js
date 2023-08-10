@@ -11,15 +11,15 @@ const Navbar = () => {
       >
         <div className="flex w-full flex-wrap items-center justify-between px-3">
           <p className="text-sm md:text-lg font-bold">RANDOM CARD GAMES</p>
-          <div className="flex">
+          <div className="flex items-center">
             <Toggle />
-            <a
-              href="https://fathasya.github.io"
+            <Link
+              href={`https://fathasya.github.io`}
               className="p-2 rounded-full bg-red-800 dark:bg-slate-900 cursor-pointer"
               target="_blank"
             >
               <IconGithub />
-            </a>
+            </Link>
           </div>
         </div>
       </nav>

@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import data from '../../constants/data.json';
 import { CardQuestion } from 'components/molecules';
-import VerticalyCentered from 'components/molecules/Modal';
 import { Button } from 'components/atoms';
 
 function GameRoom() {
